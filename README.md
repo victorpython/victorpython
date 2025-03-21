@@ -1,4 +1,4 @@
-# Hi! I'm Víctor Cardoso
+# Hi! I'm Víctor Cardoso <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
 <p>
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" />
