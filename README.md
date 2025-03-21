@@ -17,6 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" style="margin-right: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" style="margin-right: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="40" style="margin-right: 5px;"/>
+  <img src="[https://cdn.simpleicons.org/powerbi](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)" alt="Power BI" width="40" style="margin-right: 5px;"/>
 </p>
 
