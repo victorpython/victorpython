@@ -10,11 +10,11 @@
 
 ## Languages and Tools
 
-![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Jupyter Notebook Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)
-![R Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
-![MySQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-![SQL Server Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
-![SQLite Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" width="40" />
 
