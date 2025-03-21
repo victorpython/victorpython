@@ -12,7 +12,7 @@
 - 📫 How to reach me: [victorcf.92@gmail.com](mailto:victorcf.92@gmail.com)
 - 😄 Fun fact: *I love teaching and developing AI projects in multidisciplinary teams*
 
-## Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 5px;"/>
