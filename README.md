@@ -2,10 +2,6 @@
 
 **Passionate about data science and its applications**
 
-### Profile Views
-
-[![Profile Views](https://komarev.com/ghpvc/?username=victorpython&style=flat-square)](https://github.com/victorpython)
-
 - 🔭 I'm currently working on *Outlier* and finishing a *PhD in Engineering*
 - 🌱 I'm currently learning *Power BI for Business Intelligence*
 - 💬 Ask me about *PyTorch, Tensorflow, Keras, Pandas*
@@ -24,3 +20,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" style="margin-right: 5px;"/>
 </p>
 
+### Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=victorpython&style=flat-square)](https://github.com/victorpython)
