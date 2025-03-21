@@ -1,5 +1,7 @@
 # Hi! I'm Víctor Cardoso
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 **Passionate about data science and its applications**
 
 - 🔭 I'm currently working on *Outlier* and finishing a *PhD in Engineering*
