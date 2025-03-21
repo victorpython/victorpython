@@ -34,8 +34,6 @@
   <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="40" style="margin-right: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" style="margin-right: 5px;"/>
   <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="40" style="margin-right: 5px;"/> 
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" style="margin-right: 5px;"/> 
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" style="margin-right: 5px;"/> 
 </p>
 
 ### Profile Views
