@@ -8,8 +8,8 @@
 
 - 🔭 I'm a Physicist with a *MsC* and *PhD in Engineering*
 - 🌱 I'm currently learning *Power BI for Business Intelligence*
-- 💬 Ask me about *AI, Big Data and Machine Learning*
-- 🤝 I'm looking to collaborate with Startups
+- 💬 Ask me about *AI, Big Data, and Machine Learning*
+- 🤝 I'm looking to collaborate with *science and technology companies*
 - 📫 How to reach me: [victorcf.92@gmail.com](mailto:victorcf.92@gmail.com)
 
 ### Languages and Tools
