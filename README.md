@@ -27,11 +27,11 @@
 ### 🔍 QA & CI/CD
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/allure"                alt="Allure"               width="40" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/githubactions"         alt="GitHub Actions"      width="40" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/junit"                 alt="JUnit"               width="40" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/postman"               alt="Postman"             width="40" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/jmeter"                alt="JMeter"              width="40" style="margin-right: 5px;"/>
+  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"                 alt="Allure"              width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/githubactions"                                 alt="GitHub Actions"      width="40" style="margin-right: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"    alt="JUnit"               width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/postman"                                       alt="Postman"             width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachejmeter.svg"       alt="Apache JMeter"       width="40" style="margin-right: 5px;"/>
 </p>
 
 ### Profile Views
