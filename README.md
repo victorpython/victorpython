@@ -4,36 +4,34 @@
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" />
 </p>
 
-**Passionate about data science and its applications**
+**Passionate about QA Testing in Artificial Intelligence**
 
 - 🔭 I'm a Physicist with a *MsC* and *PhD in Engineering*
-- 🌱 I'm currently learning *Power BI for Business Intelligence*
-- 💬 Ask me about *AI, Big Data, and Machine Learning*
-- 🤝 I'm looking to collaborate with *science and technology companies*
+- 🌱 Currently building test frameworks with *Selenium*, *pytest* and LLM evaluation pipelines
+- 💬 Ask me about *Selenium WebDriver*, *Allure*, *Flask* stubs for chatbot testing
+- 🤝 I’m looking to collaborate with forward‑thinking tech teams on AI quality assurance
 - 📫 How to reach me: [victorcf.92@gmail.com](mailto:victorcf.92@gmail.com)
 
-### Languages and Tools
+### 🛠️ LANGUAGES & TOOLS
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" style="margin-right: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" style="margin-right: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" style="margin-right: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" style="margin-right: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" style="margin-right: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       alt="Python"           width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/selenium"                                                   alt="Selenium"         width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/pytest"                                                     alt="pytest"           width="40" style="margin-right: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"   alt="Flask"            width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/docker"                                                     alt="Docker"           width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/git"                                                        alt="Git"              width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/linux"                                                      alt="Linux"            width="40" style="margin-right: 5px;"/>
 </p>
 
-### Machine Learning and Data Science
+### 🔍 QA & CI/CD
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" style="margin-right: 5px;"/> 
-  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="40" style="margin-right: 5px;"/> 
-  <img src="https://cdn.simpleicons.org/keras" alt="Keras" width="40" style="margin-right: 5px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" style="margin-right: 5px;"/> 
-  <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="40" style="margin-right: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="40" style="margin-right: 5px;"/> 
+  <img src="https://cdn.simpleicons.org/allure"                alt="Allure"               width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/githubactions"         alt="GitHub Actions"      width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/junit"                 alt="JUnit"               width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/postman"               alt="Postman"             width="40" style="margin-right: 5px;"/>
+  <img src="https://cdn.simpleicons.org/jmeter"                alt="JMeter"              width="40" style="margin-right: 5px;"/>
 </p>
 
 ### Profile Views
