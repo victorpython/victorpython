@@ -4,7 +4,7 @@
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" />
 </p>
 
-**Passionate about QA Testing in Artificial Intelligence**
+**Passionate about QA Automation with Artificial Intelligence**
 
 - 🔭 I'm a Physicist with a *MsC* and *PhD in Engineering*
 - 🌱 Currently building test frameworks with *Selenium*, *pytest* and LLM evaluation pipelines
