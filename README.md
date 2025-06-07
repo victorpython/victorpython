@@ -4,12 +4,12 @@
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" />
 </p>
 
-**Passionate about QA Automation with Artificial Intelligence**
+**Passionate about applying AI-powered solutions to enhance software quality, optimize operations, and turn data into actionable insights**
 
 - 🔭 I'm a Physicist with a *MsC* and *PhD in Engineering*
-- 🌱 Currently building test frameworks with *Selenium*, *pytest* and LLM evaluation pipelines
-- 💬 Ask me about *Selenium WebDriver*, *Allure*, *Flask* stubs for chatbot testing
-- 🤝 I’m looking to collaborate with forward‑thinking tech teams on AI quality assurance
+- 🌱 Currently building *AI-driven systems* for QA, development, and factory operations
+- 💬 Ask me about *LLM evaluation pipelines*, *prompt engineering frameworks*, and *automation solutions*
+- 🤝 I’m looking to collaborate with forward‑thinking tech teams on *applied AI projects*
 - 📫 How to reach me: [victorcf.92@gmail.com](mailto:victorcf.92@gmail.com)
 
 ### 🛠️ LANGUAGES & TOOLS
